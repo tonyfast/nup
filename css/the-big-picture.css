@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+ @import url(https://fonts.googleapis.com/css?family=Grand+Hotel);
+
+body {
+	font-family: "Grand Hotel";
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(../background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+	background-color: rgba(255,255,255,.4)
+}
+
+* {
+   font-size: 48px;
+   line-height: 1.5;
+}
