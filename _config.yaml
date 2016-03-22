@@ -1,1 +1,3 @@
 baseurl: /nup
+gems:
+ - jekyll-coffeescript
